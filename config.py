@@ -1,9 +1,6 @@
-# Configuración del Comedor Universitario UNAMBA
+# Configuracion del Comedor Universitario UNAMBA
 
 NOMBRE_COMEDOR = "Comedor Universitario UNAMBA"
-
-PRECIO_RACION = 5.00
-
-HORARIO_ALMUERZO = "12:00 - 15:00"
-
+PRECIO_RACION = 4.00
+HORARIO_ALMUERZO = "12:00 - 14:30"
 AFORO_MAXIMO = 100
